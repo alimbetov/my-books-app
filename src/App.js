@@ -4,7 +4,7 @@ import { About } from './pages/Aboutpage';
 import { Blogpage } from './pages/Blogpage';
 import { Notfoundpage } from './pages/Notfoundpage';
 import { Layout } from './components/Layout'
-
+import './styles/App.css';
 function App() {
   return (
     <>
