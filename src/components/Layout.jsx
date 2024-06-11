@@ -16,7 +16,7 @@ const Layout = () => {
             <Outlet />
         </main>
 
-        <footer className="container">2021</footer>
+        <footer className="container">Alimbetov Jun 2024</footer>
         </>
     )
 }
